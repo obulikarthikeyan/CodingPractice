@@ -1,0 +1,16 @@
+.idea/
+*/gradle/
+.gradle/
+*/.gradle/
+build/
+out/
+*/node_modules/
+ExpertCare-frontend/public/
+ExpertCare-backend/tmp/
+.DS_Store
+.project
+.settings/
+.classpath
+classes
+/bin/
+*.iml
